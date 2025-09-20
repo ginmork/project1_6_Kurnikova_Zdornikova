@@ -13,6 +13,6 @@ fun main(args: Array<String>) {
 
     else if (num2.toInt()%2 != 0)
         result = num1 + num2
-        println("нечетное число из введенных цифр" + result)
+        println("Нечетное число из введенных цифр = " + result)
 
 }
